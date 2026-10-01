@@ -34,7 +34,7 @@ Je transforme des données métier en décisions, et je contrôle mes propres ch
 
 ## Expérience
 
-- **Groupe Angelotti (filiale Nexity), deux ans d'alternance data** : une trentaine de rapports et tableaux de bord Power BI pour cinq services métier, flux ETL sous SQL Server, et une migration d'ERP fiabilisée en rapprochant environ 1 440 tiers et 300 opérations, sans perte de donnée critique.
+- **Groupe Angelotti (filiale Nexity), deux ans d'alternance data** : une centaine de rapports et tableaux de bord Power BI pour cinq services métier, flux ETL sous SQL Server, et une migration d'ERP fiabilisée en rapprochant environ 1 440 tiers et 300 opérations, sans perte de donnée critique.
 - **Cinq ans d'activité indépendante** en conception et développement web : cadrer un besoin, chiffrer, livrer, former les utilisateurs.
 - **Certification NVIDIA** « Generative AI with Diffusion Models ».
 
